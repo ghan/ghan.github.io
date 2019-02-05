@@ -9,6 +9,10 @@ permalink: /projects/
 
 [Philip Glass Center](http://www.philipglasscenter.org)
 
+[Jinn and Company](http://jinand.co)
+
+[IRL Shop](http://shop.finditirl.com)
+
 ## Past
 * Wun Wun app
 * Isobar .com
