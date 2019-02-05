@@ -3,10 +3,10 @@ layout: post
 title: Python Cheatsheet
 ---
 
-# Python Syntax and Common Patterns
+## Python Syntax and Common Patterns
 Not an exhaustive list, just a few things I find handy to keep in a cheat sheet.
 
-## Variables and Types
+### Variables and Types
 * Lists: `["a" , "b", "c"]`
 * Tuples: Immutable lists `("a", "b", "c")`
 * Dicts: key/value dictionaries/hashtable `{"a": 1, "b":2}`
@@ -15,13 +15,13 @@ Not an exhaustive list, just a few things I find handy to keep in a cheat sheet.
     * Faster lookup for existence
     * unordered, mutable
 
-## List Methods
+### List Methods
 ```
 a.append()
 a.reverse()
 ```
 
-## Dict Methods
+### Dict Methods
 ```
 d.get("i", "default") 
 d.update({"j": 5}) # add to dict
@@ -30,7 +30,7 @@ d.values() # iterable of values
 d.items() # iterable of both
 ```
 
-## Loops
+### Loops
 * List Comprehension: create new lists in loops
 ```
 original = ["A", "B", "C" ]
@@ -39,7 +39,7 @@ converted = [
 ]
 ```
 
-## Functions
+### Functions
 * Lambda functions: one line functions
 ```
 cubed = lambda i: i**3
@@ -53,11 +53,7 @@ do_something(*args, **kwargs)
         # dict of keyed arguments, note items() to allow for iteration
 ```
 
-## Classes
-* constructor
-* inheritence 
-
-## Exception Handling
+### Exception Handling
 ```
 try: a.keys()
 except Exception as e:

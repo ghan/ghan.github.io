@@ -3,10 +3,10 @@ layout: post
 title: Markdown Cheat Sheet
 ---
 
-# Keep Forgetting Markdown?
+## Keep Forgetting Markdown?
 Here's a quick cheatsheet:
 
-## Headers
+### Headers
 ```
 # H1
 ## H2
@@ -16,7 +16,7 @@ Here's a quick cheatsheet:
 ###### H6
 ```
 
-## Weight, Emphasis
+### Weight, Emphasis
 ```
 *Italic* or _Italic_
 **Bold** or __Bold__
@@ -24,7 +24,7 @@ Here's a quick cheatsheet:
 ~~Strikethrough~~
 ```
 
-## Lists
+### Lists
 ```
 1. Ordered
 2. List
@@ -36,18 +36,18 @@ Here's a quick cheatsheet:
 * List
 ```
 
-## Links
+### Links
 ```
 [Link to Wikipedia](http://www.wikipedia.org)
 <http://www.wikipedia.org>
 ```
 
-## Images
+### Images
 ```
 ![Alt Image Text](logo.jpg)
 ```
 
-## Code
+### Code
 ```
 Inline `code`
 
