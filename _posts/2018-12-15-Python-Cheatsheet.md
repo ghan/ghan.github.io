@@ -3,8 +3,7 @@ layout: post
 title: Python Cheatsheet
 ---
 
-## Python Syntax and Common Patterns
-Not an exhaustive list, just a few things I find handy to keep in a cheat sheet.
+Python syntax and common patterns -- Not an exhaustive list, just a few things I find handy to keep in a cheat sheet.
 
 ### Variables and Types
 * Lists: `["a" , "b", "c"]`
@@ -16,13 +15,13 @@ Not an exhaustive list, just a few things I find handy to keep in a cheat sheet.
     * unordered, mutable
 
 ### List Methods
-```
+```python
 a.append()
 a.reverse()
 ```
 
 ### Dict Methods
-```
+```python
 d.get("i", "default") 
 d.update({"j": 5}) # add to dict
 d.keys() # iterable of keys
@@ -32,7 +31,7 @@ d.items() # iterable of both
 
 ### Loops
 * List Comprehension: create new lists in loops
-```
+```python
 original = ["A", "B", "C" ]
 converted = [
     i.lower() for i in original
@@ -41,11 +40,11 @@ converted = [
 
 ### Functions
 * Lambda functions: one line functions
-```
+```python
 cubed = lambda i: i**3
 ```
 * Variable length arguments
-```
+```python
 do_something(*args, **kwargs)
     for arg in args:
         #iterable of non-keys arguments
@@ -54,7 +53,7 @@ do_something(*args, **kwargs)
 ```
 
 ### Exception Handling
-```
+```python
 try: a.keys()
 except Exception as e:
     print("err", e)
