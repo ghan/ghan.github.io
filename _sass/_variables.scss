@@ -15,9 +15,10 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: "Times", Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto:100');
+
+$bodyfont: 'Lato', sans-serif;
+$headerfont: 'Roboto', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
