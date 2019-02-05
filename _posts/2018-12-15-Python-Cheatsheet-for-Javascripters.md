@@ -30,7 +30,6 @@ d.values() # iterable of values
 d.items() # iterable of both
 ```
 
-
 ## Loops
 * List Comprehension: create new lists in loops
 ```
