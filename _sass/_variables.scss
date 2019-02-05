@@ -15,10 +15,10 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-@import url('https://fonts.googleapis.com/css?family=Lora|Roboto:300');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Roboto');
 
 $bodyfont: 'Roboto', sans-serif;
-$headerfont: 'Lora', serif;
+$headerfont: 'Crimson Text', serif;
 
 // Mobile breakpoints
 @mixin mobile {
