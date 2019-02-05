@@ -3,7 +3,7 @@ layout: post
 title: Python Cheatsheet
 ---
 
-#h1 Python Syntax and Common Patterns
+# Python Syntax and Common Patterns
 Not an exhaustive list, just a few things I find handy to keep in a cheat sheet.
 
 ## Variables and Types

@@ -3,7 +3,7 @@ layout: post
 title: Markdown Cheat Sheet
 ---
 
-#h1 Keep Forgetting Markdown?
+# Keep Forgetting Markdown?
 Here's a quick cheatsheet:
 
 ## Headers
