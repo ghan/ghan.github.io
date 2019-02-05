@@ -60,5 +60,3 @@ Inline `code`
     ```
 ```
 
-That should cover most of your needs!
-
