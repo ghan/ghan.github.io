@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Cheatsheet for Javascripters
+title: Python Cheatsheet
 ---
 
 #h1 Python Syntax and Common Patterns
