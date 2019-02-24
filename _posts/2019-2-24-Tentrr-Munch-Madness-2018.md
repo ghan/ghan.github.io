@@ -87,6 +87,7 @@ Ok ok ok.... these restaurants are like a block from each other. "North Dumpling
 
 Given meeting schedules today, the games will play later this afternoon. 
 
+
 ### March 15, 2018 (afternoon)
 Game Day Wrap Up:
 
@@ -99,6 +100,8 @@ Office favorite XO mopped the floor with fancy wanna-bes Red Egg. As Chris noted
 We've got a few more first round games, and they're all new dumpling spots -- and guess what? They're all close to the new office. Boy how I can't wait for the new office.
 
 Munch Madness '18
+
+![The old office](https://www.dropbox.com/s/6el36ez371p0nht/2018-03-14%2014.19.20.jpg?dl=1)
 
 ### March 19, 2018
 Happy Monday, Munchers --
@@ -187,6 +190,7 @@ Keep Munching,
 
 Munch Madness '18
 
+
 ### March 29, 2018
 OK Munch Maddie Baddies -- two more games today to decide the Fried Four:
 
@@ -199,6 +203,9 @@ North and Wu's are on Essex, just a couple blocks east. Nom Wah and Buddha are j
 I think game 1 around lunch, and game 2 a little after.
 
 Munch Madness '18
+
+![Picking up dumplings](https://www.dropbox.com/s/phiy4m95kx5cjns/2018-04-04%2015.17.24.jpg?dl=1)
+
 
 ### March 31, 2018
 The results from Thursday's matchups are as follows:
