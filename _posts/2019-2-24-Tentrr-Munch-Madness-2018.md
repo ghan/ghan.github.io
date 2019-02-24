@@ -340,6 +340,6 @@ Munch Madness '18
 PS: I would like to thank the team of organizers who helped coordinate Munch Madness this year: Zach Freed, Tyler Woodsmall, Baxter Townsend, and to a nominal degree, Gareth Chisholm. Next year will be even more grand in scope, so if you'd like to join the groundswell, reach out to munchmadness@tentrr.com -- we're hiring in all departments! 
 
 ### Winner of the 2018 Munch Madness Official Pool
-![Lindsey Dartsch, winner of "Tentrr's Lucky Guesser" award](https://www.dropbox.com/s/4zboonag0p2ltru/Screen%20Shot%202019-02-24%20at%201.30.39%20PM.png?dl=0)
+![Lindsey Dartsch, winner of "Tentrr's Lucky Guesser" award](https://www.dropbox.com/s/4zboonag0p2ltru/Screen%20Shot%202019-02-24%20at%201.30.39%20PM.png?dl=1)
 Lindsey Dartsch, winner of **Tentrr's Lucky Guesser** award!
 
