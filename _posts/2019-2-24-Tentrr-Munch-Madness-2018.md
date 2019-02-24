@@ -3,14 +3,12 @@ layout: post
 title: Tentrr Munch Madness - 2018 Recap
 ---
 
-16 Chinese restaurants battled head to head for the title of **World's Greatest Dumpling in Chinatown**. In March 2018, a small startup in Chinatown NYC hosted New York's first, greatest, and only dumpling competition (organized by yours truly). 
+In March 2018, a small startup in Chinatown NYC hosted New York's first, greatest, and only dumpling competition (organized by yours truly). 16 Chinese restaurants battled head to head for the title of **World's Greatest Dumpling in Chinatown**. 
 
-The entire [Tentrr](https://tentrr.com) office -- 20-some individuals -- participated. Each day, we'd bring a few orders of dumplings from the two restaurants and hold a blind taste test, judged on three criteria: Flavor, Texture, and Overall. Results would be tallied and shared later that day. 
+The entire [Tentrr](https://tentrr.com) office -- 20-some individuals -- participated. Each day, we'd bring a few orders of dumplings from two restaurants and hold a blind taste test, judged on three criteria: Flavor, Texture, and Overall. Results would be tallied and shared later that day. Winners would progress to the next round, and the office could keep track of standings on the [2018 Munch Madness Official Bracket](https://tinyurl.com/tentrrmunchmadness).
 
+#### Participating Restaurants
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rg2mT-Xj0eEzB9zkVbhNiNxL6iqfDZ_e" width="100%" height="480"></iframe>
-Participating Restaurants
-
-Winners would progress to the next round, and the office could keep track of standings on the [2018 Munch Madness Official Bracket](https://tinyurl.com/tentrrmunchmadness).
 
 Here is an archive of the recap emails.
 
