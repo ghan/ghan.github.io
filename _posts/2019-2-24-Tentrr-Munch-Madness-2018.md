@@ -3,7 +3,6 @@ layout: post
 title: Tentrr Munch Madness - 2018 Recap
 ---
 
-## Munch Madness 2018
 16 Chinese restaurants battled head to head for the title of **World's Greatest Dumpling in Chinatown**. In March 2018, a small startup in Chinatown NYC hosted New York's first, greatest, and only dumpling competition (organized by yours truly). 
 
 
@@ -233,7 +232,7 @@ Submit your championship predictions before the first Fried Four game for a chan
 Munch Madness '18
 
 ![Photo of office tasting](https://www.dropbox.com/s/asv5hfbz6pio0ol/2018-04-04%2016.06.55.jpg?dl=1)
-(Photo of office tasting)
+(Photo of office tasting`)
 
 ### April 3, 2018 (morning)
 Ok Office, Fried Four game one starts today! **Deluxe Green Bo** vs **XO Kitchen**.
@@ -331,6 +330,6 @@ Munch Madness '18
 PS: I would like to thank the team of organizers who helped coordinate Munch Madness this year: Zach Freed, Tyler Woodsmall, Baxter Townsend, and to a nominal degree, Gareth Chisholm. Next year will be even more grand in scope, so if you'd like to join the groundswell, reach out to munchmadness@tentrr.com -- we're hiring in all departments! 
 
 ### Winner of the 2018 Munch Madness Official Pool
-![Lindsey Dartsch, winner of "Tentrr's Lucky Guesser" award](https://www.dropbox.com/s/xh8j2r494m5tjlg/2018-04-11%2014.21.15.jpg?dl=1)
+![Lindsey Dartsch, winner of "Tentrr's Lucky Guesser" award](https://www.dropbox.com/s/nsztmnrkeyb79xc/2018-04-11%2014.21.11.jpg?dl=1)
 Lindsey Dartsch, winner of **Tentrr's Lucky Guesser** award!
 
