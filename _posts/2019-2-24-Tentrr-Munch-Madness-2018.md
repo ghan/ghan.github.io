@@ -10,7 +10,7 @@ The entire [Tentrr](https://tentrr.com) office -- 20-some individuals -- partici
 #### Participating Restaurants
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rg2mT-Xj0eEzB9zkVbhNiNxL6iqfDZ_e" width="100%" height="480"></iframe>
 
-Here is an archive of the recap emails.
+For your amusement and edification, copies of the recap emails are provided below:
 
 ## March 12, 2018
 Hello NYC office,
