@@ -174,7 +174,7 @@ img {
 
   @include mobile {
     float: none;
-    display: block;
+    display: none;
     margin: 0 auto;
   }
 
@@ -285,6 +285,9 @@ footer {
   text-align: center;
   a {
     padding: 0 8px;
+    @include mobile {
+      padding: 0 2px;
+    }
   }
 }
 
