@@ -7,6 +7,11 @@ title: Tentrr Munch Madness - 2018 Recap
 
 The entire [Tentrr](https://tentrr.com) office -- 20-some individuals -- participated. Each day, we'd bring a few orders of dumplings from the two restaurants and hold a blind taste test, judged on three criteria: Flavor, Texture, and Overall. Results would be tallied and shared later that day. 
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rg2mT-Xj0eEzB9zkVbhNiNxL6iqfDZ_e" width="100%" height="480"></iframe>
+Participating Restaurants
+
+Winners would progress to the next round, and the office could keep track of standings on the [2018 Munch Madness Official Bracket](https://tinyurl.com/tentrrmunchmadness).
+
 Here is an archive of the recap emails.
 
 ## March 12, 2018
@@ -27,9 +32,6 @@ Check the Tentrr Team Calendar for game days -- first one's tomorrow!
 
 ![Munch Madness 2018 Official Poster](https://www.dropbox.com/s/91hbv7awvwjkl6d/munchmadness2018poster.png?dl=1)
 Poster credit: Zach Freed
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rg2mT-Xj0eEzB9zkVbhNiNxL6iqfDZ_e" width="100%" height="480"></iframe>
-Participating Restaurants
 
 
 ## March 13, 2018
