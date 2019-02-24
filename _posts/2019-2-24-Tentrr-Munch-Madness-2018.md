@@ -8,7 +8,7 @@ title: Tentrr Munch Madness - 2018 Recap
 
 Here is an archive of the recap emails.
 
-### March 12, 2018
+## March 12, 2018
 Hello NYC office,
 
 It's that time of year again! The First Annual Tentrr Dumpling Contest was a huge hit last year, and we're excited to sync this year's contest with that other big contest in March. But instead of dunks, we're talking dumps. (attn HR: that's short for 'dumplings')
@@ -28,7 +28,7 @@ Check the Tentrr Team Calendar for game days -- first one's tomorrow!
  
 (poster credit: Zach Freed)
 
-### March 13, 2018
+## March 13, 2018
 Howdy Munchers,
 
 Today is round one of Tentrr Munch Madness. Dumplings will arrive around 1pm today -- your job is to eat and vote!
@@ -37,7 +37,7 @@ Today's Matchup: We begin Munch Madness with a classic neighborhood grudge match
 
 Munch Madness '18
 
-### March 14, 2018 - morning
+## March 14, 2018 - morning
 Good Moooorning Munchers!
 
 Big day today. Picture day, all hands... and two Munch Madness games! Whew what a whirlwind.
@@ -56,7 +56,7 @@ Thanks for your votes!
 
 Munch Madness '18
 
-### March 14, 2018 - afternoon
+## March 14, 2018 - afternoon
 Thanks for everyone's participation today! We had a pretty eventful double-header today. Dumple-header?? 
 
 In a nail-biter of a Bougie Brawl, Mimi Chengs lost in overtime to Nom Wah Nolita! They tied in "overall" category, but folks overwhelmingly preferred Nom Wah Nolita's extra crispy crunch (the "texture" category). Maybe it's just about the fried goodness after all?
@@ -74,7 +74,7 @@ As always you can stay tuned with our bracket:
 
 Munch Madness '18
 
-### March 15, 2018 - morning
+## March 15, 2018 - morning
 Howdy Dumpster Divers,
 
 We've got two games today. Red Egg vs XO Kitchen, and North Dumpling vs East Dumpling.
@@ -88,7 +88,7 @@ Ok ok ok.... these restaurants are like a block from each other. "North Dumpling
 Given meeting schedules today, the games will play later this afternoon. 
 
 
-### March 15, 2018 - afternoon
+## March 15, 2018 - afternoon
 Game Day Wrap Up:
 
 Lunchtime game: **East Dumpling** vs **North Dumpling**
@@ -104,7 +104,7 @@ Munch Madness '18
 ![The old office](https://www.dropbox.com/s/6el36ez371p0nht/2018-03-14%2014.19.20.jpg?dl=1)
 The old office, 134 Bowery
 
-### March 19, 2018
+## March 19, 2018
 Happy Monday, Munchers --
 
 Two games today, appx around 1pm-ish. Ops team should be arriving for their meeting around then, so it'll be an extra "mad" munching. 
@@ -114,7 +114,7 @@ Game 2: Tasty Dumpling vs Nom Wah Tea Parlor (the og)
 
 Munch Madness '18
 
-### March 19, 2018 - afternoon
+## March 19, 2018 - afternoon
 Week 2 of Munch Madness started with a couple exciting matchups -- here's the wrap up:
 
 **Nom Wah Tea Parlor** vs **Tasty Dumpling**
@@ -135,7 +135,7 @@ I don't know what's more surprising, the 40-point difference or the fact that Mi
 
 Munch Madness '18
 
-### March 21, 2018
+## March 21, 2018
 We wrap up the first round of Munch Madness with a curious matchup: Wo Hop City vs Original Buddha Bodai Kosher Vegetarian
 
 Wo Hop is a real workhorse and fixture in Chinatown. They've been around for about 80 years and they're open 24 hours, 7 days a week. They still do old school no-frills Cantonese, and their menu will probably stay the same for a very long time. If you've spent some time partying in the LES, you may have a blurry memory of these [sticker-and-dollar-bill encrusted walls](https://www.google.com/maps/uv?hl=en&pb=!1s0x89c25a26ec9d51f9%3A0xb50df4ec67e9d997!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Fwww.zomato.com%2Fnew-york-city%2Fwo-hop-chinatown!5swo%20hop%20city%20nyc%20-%20Google%20Search&imagekey=!1e10!2sAF1QipOcKcX5jyDBMRVtIv9-toKFVVL1shz3GNNFctTj&sa=X&ved=0ahUKEwjU6_ubvPvZAhUPy1kKHWmeDQkQoioIyQEwCg). Ringing any bells in that alcohol-abused brain of yours? If so, that place was -- and always will be -- Wo Hop City.
@@ -160,7 +160,7 @@ Until then, do your colon a favor and get some raw vegetables and drink plenty o
 
 Munch Madness '18
 
-### March 28, 2018 - morning
+## March 28, 2018 - morning
 Ladies and Dumpleman,
 
 I hope you've been eating your kale, because we're back on the dumpling diet today. Two games to kick off the Edible Eight series:
@@ -171,7 +171,7 @@ Nom Wah Nolita vs XO Kitchen -- These two are close to the old office... ah nost
 
 Games around lunch, I think. 
 
-### March 28, 2018 (afternoon)
+## March 28, 2018 (afternoon)
 Good afternoon Dumpaholics -- we had two big matchups today, Deluxe Green Bo v Fu Zhou and Nom Wah Nolita v XO Kitchen
 
 **Deluxe Green Bo** vs **Fu Zhou**
@@ -192,7 +192,7 @@ Keep Munching,
 Munch Madness '18
 
 
-### March 29, 2018
+## March 29, 2018
 OK Munch Maddie Baddies -- two more games today to decide the Fried Four:
 
 **North Dumpling** vs **Wu's Wonton**
@@ -208,7 +208,7 @@ Munch Madness '18
 ![Picking up dumplings](https://www.dropbox.com/s/5ohln20pw37tig9/Screen%20Shot%202019-02-24%20at%201.30.50%20PM.png?dl=1)
 Picking up dumplings
 
-### March 31, 2018
+## March 31, 2018
 The results from Thursday's matchups are as follows:
 
 **North Dumpling** vs **Wu's Wonton King**
@@ -240,13 +240,13 @@ Submit your championship predictions before the first Fried Four game for a chan
 Munch Madness '18
 
 
-### April 3, 2018 - morning
+## April 3, 2018 - morning
 Ok Office, Fried Four game one starts today! **Deluxe Green Bo** vs **XO Kitchen**.
 
 If you haven't yet, submit your prediction for the tournament champion! Submissions end when Zach and I get back from picking up dumps:
 [https://goo.gl/forms/Dtad1UfnaP7rRhm62](https://goo.gl/forms/Dtad1UfnaP7rRhm62)
 
-### April 3, 2018
+## April 3, 2018
 Party people, here we go! Put my hands upon your chopsticks, [I dip, you dip, we dip](https://www.youtube.com/watch?v=dZPQdZLyHYE) dumplings!
 
 Fried Four: Game 1 -- Deluxe Green Bo vs  XO Kitchen
@@ -266,10 +266,10 @@ Munch Madness '18
 ![Photo of office tasting](https://www.dropbox.com/s/asv5hfbz6pio0ol/2018-04-04%2016.06.55.jpg?dl=1)
 Office tasting
 
-### April 4, 2018 - morning
+## April 4, 2018 - morning
 Ok team! Sorry for late update. Munch Madness Semifinals: Fried Four (Game 2) -- Eastern Conference Finals today... Wu's Wonton King vs Nom Wah Tea Parlor. Game begins around 3:30pm (leaving now to pick up)
 
-### April 4, 2018 - afternoon
+## April 4, 2018 - afternoon
 Ladies and Gentledumps,
 
 What is life? 
@@ -300,7 +300,7 @@ We wish you the best of luck as we go into the Finals.
 
 Munch Madness '18
 
-### April 10, 2018 - morning
+## April 10, 2018 - morning
 Ok Munch Madness fans,
 
 Today's the big day. The Finals, XO vs Nom Wah Tea Parlor. By the stats (yelp, zagat, blogosphere) XO are the underdogs by a wide margin. In this tournament, however, XO have dominated. They won their last game by 30 points, and the one before by 18. Will Nom Wah's extra-fried offering keep these upstarts at bay?
@@ -309,7 +309,7 @@ Game will begin around 1pm. Winner will be announced later today, and the person
 
 G
 
-### April 10, 2018 - afternoon
+## April 10, 2018 - afternoon
 Sunrise doesn't last all morning
 A cloudburst doesn't last all day 
 Seems my bracket's up 
@@ -339,7 +339,7 @@ Munch Madness '18
 
 PS: I would like to thank the team of organizers who helped coordinate Munch Madness this year: Zach Freed, Tyler Woodsmall, Baxter Townsend, and to a nominal degree, Gareth Chisholm. Next year will be even more grand in scope, so if you'd like to join the groundswell, reach out to munchmadness@tentrr.com -- we're hiring in all departments! 
 
-### Winner of the 2018 Munch Madness Official Pool
+## Winner of the 2018 Munch Madness Official Pool
 ![Lindsey Dartsch, winner of "Tentrr's Lucky Guesser" award](https://www.dropbox.com/s/4zboonag0p2ltru/Screen%20Shot%202019-02-24%20at%201.30.39%20PM.png?dl=1)
 Lindsey Dartsch, winner of **Tentrr's Lucky Guesser** award!
 
