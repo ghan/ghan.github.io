@@ -5,6 +5,7 @@ title: Tentrr Munch Madness - 2018 Recap
 
 16 Chinese restaurants battled head to head for the title of **World's Greatest Dumpling in Chinatown**. In March 2018, a small startup in Chinatown NYC hosted New York's first, greatest, and only dumpling competition (organized by yours truly). 
 
+The entire [Tentrr](https://tentrr.com) office -- 20-some individuals -- participated. Each day, we'd bring a few orders of dumplings from the two restaurants and hold a blind taste test, judged on three criteria: Flavor, Texture, and Overall. Results would be tallied and shared later that day. 
 
 Here is an archive of the recap emails.
 
@@ -25,8 +26,11 @@ Check the Tentrr Team Calendar for game days -- first one's tomorrow!
 * We plan to bring mostly fried pork and chive dumplings, or its closest approximation. There is one vegetarian restaurant competing, which is kind of like having the Ivy League participate in March Madness, but this way everyone in the office can enjoy the contest in some way.
 
 ![Munch Madness 2018 Official Poster](https://www.dropbox.com/s/91hbv7awvwjkl6d/munchmadness2018poster.png?dl=1)
- 
-(poster credit: Zach Freed)
+Poster credit: Zach Freed
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rg2mT-Xj0eEzB9zkVbhNiNxL6iqfDZ_e" width="100%" height="480"></iframe>
+Participating Restaurants
+
 
 ## March 13, 2018
 Howdy Munchers,
@@ -36,6 +40,7 @@ Today is round one of Tentrr Munch Madness. Dumplings will arrive around 1pm tod
 Today's Matchup: We begin Munch Madness with a classic neighborhood grudge match between Shanghai Cafe Deluxe and Deluxe Green Bo. They both claim to be "deluxe"... but who's the deluxiest?? Only a couple blocks from each other, the "Battle of Deluxes" (as the media have dubbed it) will decide which is the the best dumpling near Mott and Canal.
 
 Munch Madness '18
+
 
 ## March 14, 2018 - morning
 Good Moooorning Munchers!
@@ -56,6 +61,7 @@ Thanks for your votes!
 
 Munch Madness '18
 
+
 ## March 14, 2018 - afternoon
 Thanks for everyone's participation today! We had a pretty eventful double-header today. Dumple-header?? 
 
@@ -73,6 +79,7 @@ As always you can stay tuned with our bracket:
 [2018 Munch Madness Official Bracket](https://tinyurl.com/tentrrmunchmadness)
 
 Munch Madness '18
+
 
 ## March 15, 2018 - morning
 Howdy Dumpster Divers,
@@ -104,6 +111,7 @@ Munch Madness '18
 ![The old office](https://www.dropbox.com/s/6el36ez371p0nht/2018-03-14%2014.19.20.jpg?dl=1)
 The old office, 134 Bowery
 
+
 ## March 19, 2018
 Happy Monday, Munchers --
 
@@ -113,6 +121,7 @@ Game 1: Wu's Wonton vs Mings Cafe
 Game 2: Tasty Dumpling vs Nom Wah Tea Parlor (the og)
 
 Munch Madness '18
+
 
 ## March 19, 2018 - afternoon
 Week 2 of Munch Madness started with a couple exciting matchups -- here's the wrap up:
@@ -134,6 +143,7 @@ Well, I'm here to tell you this time wasn't one of those times. Wu's Wonton beat
 I don't know what's more surprising, the 40-point difference or the fact that Ming's got two points at all. Ming's got two points and two of us got food poisoning. Maybe the extra F in their name stands for "F-ed up dumplings." I wonder if Ming's will even make the cut for next year. I suppose someone has to be the worst. Sorry Ming.
 
 Munch Madness '18
+
 
 ## March 21, 2018
 We wrap up the first round of Munch Madness with a curious matchup: Wo Hop City vs Original Buddha Bodai Kosher Vegetarian
@@ -160,6 +170,7 @@ Until then, do your colon a favor and get some raw vegetables and drink plenty o
 
 Munch Madness '18
 
+
 ## March 28, 2018 - morning
 Ladies and Dumpleman,
 
@@ -171,6 +182,10 @@ Nom Wah Nolita vs XO Kitchen -- These two are close to the old office... ah nost
 
 Games around lunch, I think. 
 
+![Picking up dumplings](https://www.dropbox.com/s/5ohln20pw37tig9/Screen%20Shot%202019-02-24%20at%201.30.50%20PM.png?dl=1)
+Picking up dumplings
+
+
 ## March 28, 2018 (afternoon)
 Good afternoon Dumpaholics -- we had two big matchups today, Deluxe Green Bo v Fu Zhou and Nom Wah Nolita v XO Kitchen
 
@@ -178,7 +193,6 @@ Good afternoon Dumpaholics -- we had two big matchups today, Deluxe Green Bo v F
 Fu Zhou has a reputation around here as the cheap, no-frills working-class heroes. Just ask around. Baxter will tell you they were the overall champs from last year's Munch Madness. Ask Gareth who makes a mean wonton soup for $2. Hell, I'm pretty sure Tyler is 60% peanut butter noodles at this point. When you compare their regard around here to Deluxe Green Bo's -- a relatively unknown entrant -- you'd expect Fu Zhou to coast through this matchup.  Well I'm here to remind you they don't call it Munch Sanity.... 
 
 Was it the steamed vs fried difference? Is it because we're bigger now and the newer taste buds crave the Bo? Maybe Bo is a sleeping giant in this contest. Whatever's going on, they beat the reigning champion Fu Zhou handily, 30 to 14.
-
 
 **Nom Wah Nolita** vs **XO**
 Nom Wah Nolita surprised a lot of folks last week with an upset over Bourgeoisie Favorite Mimi Cheng's. Today they go against XO, an office staple. XO came in second place last year and many would claim they're the real reigning champs, since more people voted them the best (ask me offline how that could be possible and not win). Nom Wah Nolita's ace in the hole is apparently frying the shit out of their dumplings, which seems to be an effective strategy -- they got to the Edible Eight. But ultimately, XO proves that experience beats pedigree with a whomping: 31 to 13.
@@ -205,8 +219,6 @@ I think game 1 around lunch, and game 2 a little after.
 
 Munch Madness '18
 
-![Picking up dumplings](https://www.dropbox.com/s/5ohln20pw37tig9/Screen%20Shot%202019-02-24%20at%201.30.50%20PM.png?dl=1)
-Picking up dumplings
 
 ## March 31, 2018
 The results from Thursday's matchups are as follows:
@@ -219,7 +231,6 @@ Big prosperous Wu vs the little dumpling shack in the North. You could say this 
 Well, who won? Wu. Wu who? Wu's Wonton. Wu's Wonton won? Whoopie!
 
 Disney movies have bred us to believe in the scrappy, broke, disorganized team with a big heart (and Emilio Estevez). But this ain't no goddamn Disney movie. This is Munch Mother-Flipping Madness. All hail King Wu.
-
 
 **Nom Wah Tea Parlor** vs **Original Buddha Bodai**
 Going into this matchup, Nom Wah Tea Parlor was a heavy favorite. Not only are they the World's Oldest Dim Sum restaurant in Chinatown, their dumplings are filled with pork and fried. That's a winning combination, and Buddha Bodai's steamed vegetarian competitor would have its work cut out. But just moments before tip-off -- in a stunning display of bravado -- Nom Wah sends their vegetarian dumplings to compete! Do they dare believe their B team could go up against Buddha Bodai's flagship dump? 
@@ -246,6 +257,7 @@ Ok Office, Fried Four game one starts today! **Deluxe Green Bo** vs **XO Kitchen
 If you haven't yet, submit your prediction for the tournament champion! Submissions end when Zach and I get back from picking up dumps:
 [https://goo.gl/forms/Dtad1UfnaP7rRhm62](https://goo.gl/forms/Dtad1UfnaP7rRhm62)
 
+
 ## April 3, 2018
 Party people, here we go! Put my hands upon your chopsticks, [I dip, you dip, we dip](https://www.youtube.com/watch?v=dZPQdZLyHYE) dumplings!
 
@@ -262,12 +274,13 @@ Tomorrow we have two 1st seed leviathans: historic **Nom Wah Tea Parlor** vs NY 
 
 Munch Madness '18
 
-
 ![Photo of office tasting](https://www.dropbox.com/s/asv5hfbz6pio0ol/2018-04-04%2016.06.55.jpg?dl=1)
 Office tasting
 
+
 ## April 4, 2018 - morning
 Ok team! Sorry for late update. Munch Madness Semifinals: Fried Four (Game 2) -- Eastern Conference Finals today... Wu's Wonton King vs Nom Wah Tea Parlor. Game begins around 3:30pm (leaving now to pick up)
+
 
 ## April 4, 2018 - afternoon
 Ladies and Gentledumps,
@@ -300,6 +313,7 @@ We wish you the best of luck as we go into the Finals.
 
 Munch Madness '18
 
+
 ## April 10, 2018 - morning
 Ok Munch Madness fans,
 
@@ -307,7 +321,6 @@ Today's the big day. The Finals, XO vs Nom Wah Tea Parlor. By the stats (yelp, z
 
 Game will begin around 1pm. Winner will be announced later today, and the person who most accurately predicted the final game will get their prize at happy hour tomorrow.
 
-G
 
 ## April 10, 2018 - afternoon
 Sunrise doesn't last all morning
@@ -338,6 +351,7 @@ Until next year,
 Munch Madness '18
 
 PS: I would like to thank the team of organizers who helped coordinate Munch Madness this year: Zach Freed, Tyler Woodsmall, Baxter Townsend, and to a nominal degree, Gareth Chisholm. Next year will be even more grand in scope, so if you'd like to join the groundswell, reach out to munchmadness@tentrr.com -- we're hiring in all departments! 
+
 
 ## Winner of the 2018 Munch Madness Official Pool
 ![Lindsey Dartsch, winner of "Tentrr's Lucky Guesser" award](https://www.dropbox.com/s/4zboonag0p2ltru/Screen%20Shot%202019-02-24%20at%201.30.39%20PM.png?dl=1)
