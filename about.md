@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Web Developer in Brooklyn NY
+Writer and Producer of Spacetime Diaries, a science fiction musical series
 
-Drummer
+Freelance web developer
+
+Novice wood worker and gardener
 
 Animal companion
