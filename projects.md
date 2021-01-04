@@ -5,15 +5,14 @@ permalink: /projects/
 ---
 
 ## Current
-[Tentrr](https://www.tentrr.com)
-
-[Philip Glass Center](http://www.philipglasscenter.org)
-
-[Jinn and Company](http://jinand.co)
-
-[IRL Shop](http://shop.finditirl.com)
+[Spacetime Diaries](https://www.spacetimediaries.com)
 
 ## Past
+* Transform Data
+* Tentrr
+* Philip Glass Center
+* Jinn and Company
+* IRL Shop
 * Wun Wun app
 * Isobar .com
 * Henry Miller Library
